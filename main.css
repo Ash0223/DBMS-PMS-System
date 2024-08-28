@@ -1,0 +1,79 @@
+.button {
+	display: flex;
+    text-align: center;
+	height: 100px;
+    width: auto;
+	padding: 0;
+	background: #e02626;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	overflow: hidden;
+	font-family: "Quicksand", sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	cursor: pointer;
+}
+
+.button:hover {
+	background: #f10e0e;
+}
+
+.button:active {
+	background: #a51e1e;
+}
+
+.button__text,
+.button__icon {
+	display: inline-flex;
+	align-items: center;
+	padding: 0 24px;
+	color: #fff;
+	height: 100%;
+}
+
+.button__icon {
+	font-size: 1.5em;
+	background: rgba(0, 0, 0, 0.08);
+}
+button{
+  text-decoration: none;  
+}
+.button1 {
+	display: flex;
+    text-align: center;
+	height: 100px;
+    width: auto;
+	padding: 0;
+	background: #009578;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	overflow: hidden;
+	font-family: "Quicksand", sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	cursor: pointer;
+}
+
+.button1:hover {
+	background: #008168;
+}
+
+.button1:active {
+	background: #006e58;
+}
+
+.button__text1,
+.button__icon1 {
+	display: inline-flex;
+	align-items: center;
+	padding: 0 24px;
+	color: #fff;
+	height: 100%;
+}
+
+.button__icon1 {
+	font-size: 1.5em;
+	background: rgba(0, 0, 0, 0.08);
+}
